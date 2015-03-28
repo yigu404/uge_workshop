@@ -1,0 +1,52 @@
+master branch is a label that git creates for us hwne we initizlize a repository
+
+Head is another label that git creates for us when we create our firs commit
+
+Head is *note* a branch
+
+# creates a new branch (label) called git-notes git branch git-notes
+
+# show us whcih branch is active
+
+--------------------------------------------------------
+
+
+git init (only need to run once!)-- set up the repository
+
+
+git branch XX(create branch)
+git branch-- display branches
+git checkoiut XX - create new branches
+git status
+(use git diff to check anything different)
+git commit -am "Created branch XX"
+git push origin XX(your branch)
+Then go to codefellows/sea-c34-python and pull request. Remember to check base fork and head fork. something like "Task4 pull request from Yi Gu"
+From now on, just push your changes to task4. Your teacher will merge your changes.
+
+git status and find untrack files
+git add! -- stage this file
+git commit -am "YOUR MESSAGE"
+  [master (root-commit) cb37b59] Add unix notes
+  1 file changed, 414 insertions(+)
+  create mode 100644 unix_notes.txt
+
+if you want to unstage the file
+git rm --cached <file>...
+
+
+if you want to move dir
+git mv YIGU temp
+git mv temp YiGu
+
+
+move files to Head?
+git checkout XXXXX
+
+To remove repository
+Your repository live in .git
+rm -rf .git
+
+
+
+git branch XXX
