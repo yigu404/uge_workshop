@@ -8,7 +8,7 @@ Head is *note* a branch
 
 # show us whcih branch is active
 
---------------------------------------------------------
+-----------------------------------------------------------------------------
 
 
 git init (only need to run once!)-- set up the repository
@@ -47,6 +47,13 @@ To remove repository
 Your repository live in .git
 rm -rf .git
 
+------------------------------------------------------------------------------
 
+We don't use this in FII class
 
-git branch XXX
+When you are in master, you can merge other branches into your current branch.
+git merge git-notes (you are in master)
+
+When you are in master, you can remove othere branches.
+git branch -d git-notes
+
