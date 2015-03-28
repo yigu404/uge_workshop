@@ -1,6 +1,6 @@
-master branch is a label that git creates for us hwne we initizlize a repository
+master branch is a label that git creates for us when we initizlize a repository
 
-Head is another label that git creates for us when we create our firs commit
+Head is another label that git creates for us when we create our first commit
 
 Head is *note* a branch
 
