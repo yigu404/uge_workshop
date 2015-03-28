@@ -1,0 +1,414 @@
+ll
+clear
+ls -la
+ls -l
+ls
+clear
+history > moving_around.txt
+hisotry > moving_around.txt
+cd ~
+ipython Github/sea-c34-python/students/YIGU/session02/series.py
+history | less
+h
+H
+history
+whatis git
+ls .
+subl .
+subl series.py
+cd session02
+session02
+cd ..
+subl BreakTheseFunctions.py
+subl Br
+session01/
+cd students/YiGu/
+git branch
+git br
+cd Github/sea-c34-python/students
+pwd
+clar
+cd
+cd Library/PubSub/Database/
+git push origin task4
+git commit -am "Rename YIGU to YiGu"
+git diff
+git status
+git checkout ../JonathanStallings
+git checkout ../JonathanStallings/*
+rm -rf ../JonathanStallings/
+git s
+git checkout ../JonathanStallings/
+cd YiGu
+git mv temp YiGu
+git mv YIGU temp
+git mv YIGU YiGu
+git mv YIGU/ YiGu/
+cd students/
+cd Github/sea-c34-python/
+cd /
+git checkout task4
+git touch task4
+git branch task4
+git branch
+git bra
+echo $PATH
+echo path
+ls -a
+rm -rf Adlm/
+rm -rf ELK
+rm -ELK
+man rm
+rm --ELK directory
+rm -ELK directory
+git version
+fish_prompt
+subl ~/.config/fish/config.fish
+cd .config/fish/
+~/.config/fish/config.fish
+pip install virtualfish
+Github/
+rm ELK/
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'yigu404@gmail.com'
+git config --global user.name 'Yi Gu'
+git config
+git --version
+brew install Git
+subl /etc/paths
+echo $EDITOR
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subls
+brew info fish
+brew into fish
+brew in fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+git push master
+git commit -m "worked on session03 task 6 list_lab.py"
+git add list_lab.py
+git add
+subl list_lab.py
+git commit -m "add list_lab.py"
+git add ./
+./
+touch list_lab.py
+git checkout task6
+git branch task6
+cd session03
+mkdir session03
+cd students/YIGU/
+git push upstream master
+git commit -m "change for session03 first part of class"
+git add examples/session03/cipher.py
+git commit -m "session03 first part of class"
+git pull upstream master
+python translater.py
+ipython
+python translater
+python -i cipher.py
+python cipher.py
+subl cipher.py
+cd examples
+git pull upstream
+vim test.py
+open test.py
+touch test.py
+python
+pytho
+git branch -d task4
+git push master feature task4
+git push origin feature
+git config --list
+len(w)
+ipython series.py
+cd Github/sea-c34-python/students/YIGU/session02/
+Github/sea-c34-python/students/YIGU/session02
+ipython from series.py import sum_series
+python from series.py import sum_series
+from series.py import sum_series
+ipython from series.py import sum_series(0)
+ipython from series.py print(sum_series(0)
+cd students/YIGU/session02/
+cd students/YIGU/session02/series.py
+git checkout master
+git branch master
+git commit -a -m 'remove test files'
+cd sea-c34-python/
+cd github
+git checkout master
+git remote add upstream https://github.com/codefellows/sea-c34-python.git
+git remote -v
+git remote
+cd sea
+cd YIGU/
+cd students
+cd student
+git push
+git commit -a
+git commint -a
+git commit a
+git commit
+cd Github
+ipython series.py print sum_series(5,2,1)
+ipython seriesv2.py
+python seriesv2.py
+cd YIGU
+git branch -a
+get branch
+sudo
+python series.py
+cd st
+cd..
+mv BreakTheseFunctions.py session01
+mkdir session01
+mkdir session02
+mkdir session02 | cd session02
+rmdir session02
+cd YiGU
+rmdir session02/
+rm session02
+cd Github/
+ls Github
+git commit -m"starting notes on git"
+git add git_notes.txt
+subl git_notes.txt
+touch git_notes.txt
+git checkout git-notes
+git log --graph --oneline --all
+git log
+cd .git
+git branch git-notes
+cd HEAD
+git commit -m"added note about hidden files"
+git add unix_notes.txt
+"file start with . is hidden file" >> unix_notes.txt
+echo "Hello"
+echo "file start with . is hidden file" >> unix_notes.txt
+'file start with . is hidden file'>> unix_notes.txt
+'file start with . is hidden file' > unix_notes.txt
+The . and .. items in every directory on the filesystem are also examples of this type of file
+This helps to keep the clutter associated with maintenance and configuration out of sight
+In Unix, any file whose name begins with . is, by default, not shown to the user unless specifically asked for
+This .git directory is an example of a hidden file
+git commit -m "test"
+git add unix_note.txt
+git add ~/unix_notes.txt
+git add ../unix_notes.txt
+cd Repositories/
+cd branches
+cd ./Repositories
+mv ./.git ./Repositories
+finder
+rm .git/
+ls-a
+master
+git commit -m "adding unix notes, first draft"
+ll
+history > moving_around.txt
+clear
+ls -la
+ls -l
+ls
+clear
+hisotry > moving_around.txt
+cd ~
+ipython Github/sea-c34-python/students/YIGU/session02/series.py
+history | less
+h
+H
+history
+whatis git
+ls .
+subl .
+subl series.py
+cd session02
+session02
+cd ..
+subl BreakTheseFunctions.py
+subl Br
+session01/
+cd students/YiGu/
+git branch
+git br
+cd Github/sea-c34-python/students
+pwd
+clar
+cd
+cd Library/PubSub/Database/
+git push origin task4
+git commit -am "Rename YIGU to YiGu"
+git diff
+git status
+git checkout ../JonathanStallings
+git checkout ../JonathanStallings/*
+rm -rf ../JonathanStallings/
+git s
+git checkout ../JonathanStallings/
+cd YiGu
+git mv temp YiGu
+git mv YIGU temp
+git mv YIGU YiGu
+git mv YIGU/ YiGu/
+cd students/
+cd Github/sea-c34-python/
+cd /
+git checkout task4
+git touch task4
+git branch task4
+git branch
+git bra
+echo $PATH
+echo path
+ls -a
+rm -rf Adlm/
+rm -rf ELK
+rm -ELK
+man rm
+rm --ELK directory
+rm -ELK directory
+git version
+fish_prompt
+subl ~/.config/fish/config.fish
+cd .config/fish/
+~/.config/fish/config.fish
+pip install virtualfish
+Github/
+rm ELK/
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'yigu404@gmail.com'
+git config --global user.name 'Yi Gu'
+git config
+git --version
+brew install Git
+subl /etc/paths
+echo $EDITOR
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subls
+brew info fish
+brew into fish
+brew in fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+git push master
+git commit -m "worked on session03 task 6 list_lab.py"
+git add list_lab.py
+git add
+subl list_lab.py
+git commit -m "add list_lab.py"
+git add ./
+./
+touch list_lab.py
+git checkout task6
+git branch task6
+cd session03
+mkdir session03
+cd students/YIGU/
+git push upstream master
+git commit -m "change for session03 first part of class"
+git add examples/session03/cipher.py
+git commit -m "session03 first part of class"
+git pull upstream master
+python translater.py
+ipython
+python translater
+python -i cipher.py
+python cipher.py
+subl cipher.py
+cd examples
+git pull upstream
+vim test.py
+open test.py
+touch test.py
+python
+pytho
+git branch -d task4
+git push master feature task4
+git push origin feature
+git config --list
+len(w)
+ipython series.py
+cd Github/sea-c34-python/students/YIGU/session02/
+Github/sea-c34-python/students/YIGU/session02
+ipython from series.py import sum_series
+python from series.py import sum_series
+from series.py import sum_series
+ipython from series.py import sum_series(0)
+ipython from series.py print(sum_series(0)
+cd students/YIGU/session02/
+cd students/YIGU/session02/series.py
+git checkout master
+git branch master
+git commit -a -m 'remove test files'
+cd sea-c34-python/
+cd github
+git checkout master
+git remote add upstream https://github.com/codefellows/sea-c34-python.git
+git remote -v
+git remote
+cd sea
+cd YIGU/
+cd students
+cd student
+git push
+git commit -a
+git commint -a
+git commit a
+git commit
+cd Github
+ipython series.py print sum_series(5,2,1)
+ipython seriesv2.py
+python seriesv2.py
+cd YIGU
+git branch -a
+get branch
+sudo
+python series.py
+cd st
+cd..
+mv BreakTheseFunctions.py session01
+mkdir session01
+mkdir session02
+mkdir session02 | cd session02
+rmdir session02
+cd YiGU
+rmdir session02/
+rm session02
+cd Github/
+ls Github
+git commit -m"starting notes on git"
+git add git_notes.txt
+subl git_notes.txt
+touch git_notes.txt
+git checkout git-notes
+git log --graph --oneline --all
+git log
+cd .git
+git branch git-notes
+cd HEAD
+git commit -m"added note about hidden files"
+git add unix_notes.txt
+"file start with . is hidden file" >> unix_notes.txt
+echo "Hello"
+echo "file start with . is hidden file" >> unix_notes.txt
+'file start with . is hidden file'>> unix_notes.txt
+'file start with . is hidden file' > unix_notes.txt
+The . and .. items in every directory on the filesystem are also examples of this type of file
+This helps to keep the clutter associated with maintenance and configuration out of sight
+In Unix, any file whose name begins with . is, by default, not shown to the user unless specifically asked for
+This .git directory is an example of a hidden file
+git commit -m "test"
+git add unix_note.txt
+git add ~/unix_notes.txt
+git add ../unix_notes.txt
+cd Repositories/
+cd branches
+cd ./Repositories
+mv ./.git ./Repositories
+finder
+rm .git/
+ls-a
+master
+git commit -m "adding unix notes, first draft"
