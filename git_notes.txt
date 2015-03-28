@@ -8,6 +8,11 @@ Head is *note* a branch
 
 # show us whcih branch is active
 
+Github is a hub of .git/ diectories
+
+You can push and pull commits to an from .git /diectories
+
+You can also clone .git/ diesctories to new conputers or new paths
 -----------------------------------------------------------------------------
 
 
